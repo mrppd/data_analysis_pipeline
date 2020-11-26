@@ -6,3 +6,6 @@ I have to upload it in a cloud drive due to large file size.
 
 I have also created a video about how to run it.
 https://youtu.be/fkXN6XdtD2g
+
+Block diagram
+![alt text](http://url/to/VariantCallingWorkflow.jpg)
