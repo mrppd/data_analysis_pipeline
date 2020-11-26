@@ -8,4 +8,5 @@ I have also created a video about how to run it.
 https://youtu.be/fkXN6XdtD2g
 
 Block diagram
+
 ![alt text](https://github.com/mrppd/data_analysis_pipeline/blob/main/VariantCallingWorkflow.jpg)
