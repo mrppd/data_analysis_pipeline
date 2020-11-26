@@ -1,6 +1,6 @@
 Development of an Data Analysis Pipeline for the Next Generation Sequencing Data.
 
-You will find the new version of pipeline script on the following link,
+You can download the pipeline script on the following link,
 https://owncloud.gwdg.de/index.php/s/yw8GPwJKUPzUff1/download
 I have to upload it in a cloud drive due to large file size.
 
