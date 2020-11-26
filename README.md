@@ -1,5 +1,11 @@
 Development of an Data Analysis Pipeline for the Next Generation Sequencing Data.
 
+Genome can be downloaded from,
+https://plants.ensembl.org/Brassica_napus/Info/Index
+
+Sequences can be downloaded from, 
+ftp://download.big.ac.cn/gsa
+
 You can download the pipeline script on the following link,
 https://owncloud.gwdg.de/index.php/s/yw8GPwJKUPzUff1/download
 I have to upload it in a cloud drive due to large file size.
