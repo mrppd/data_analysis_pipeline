@@ -4,6 +4,7 @@ Genome can be downloaded from,
 https://plants.ensembl.org/Brassica_napus/Info/Index
 
 Sequences can be downloaded from, 
+
 ftp://download.big.ac.cn/gsa
 
 You can download the pipeline script on the following link,
