@@ -1,0 +1,27 @@
+# This is a input file
+# All the input paths/directories should be mentioned properly
+# Mention full path
+
+#####
+#Basic mandatory parameters
+SEQUENCE_DIR = 		[...]
+REF_GENOME =		[...]
+SNPEFF_DB =		[...]
+EXIT_ON_ERROR =		[T]
+OVERWRITE_FILE =	[F]
+NO_OF_INTERNAL_THREAD = [45]
+
+#SNP filtering parameters
+QD_SNP =		[2.0]
+FS_SNP =		[60.0]
+MQ_SNP =		[40.0]
+MQRankSum_SNP =		[-12.5]
+ReadPosRankSum_SNP =	[-8.0]
+SOR_SNP =		[4.0]
+
+#INDEL filtering parameters
+QD_INDEL =		[2.0]
+FS_INDEL =		[200.0]
+ReadPosRankSum_INDEL =	[-20.0]
+SOR_INDEL =		[10.0]
+
