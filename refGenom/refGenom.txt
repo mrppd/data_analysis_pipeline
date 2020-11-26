@@ -1,0 +1,1 @@
+place the reference genome in this directory and name it refGenom. The program can handle both compressed and uncompressed files.
